@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://i.imgur.com/voAD6V6.png" alt="Xeno Engine" width="120" height="120">
+<img src="https://i.imgur.com/FQGua6z.png" alt="Xeno Engine" width="120" height="120">
 
 # 🌌 Xeno Engine v3.0.1 [Production Ready]
 **Advanced Scripting Environment for Performance Testing and Automation.**
